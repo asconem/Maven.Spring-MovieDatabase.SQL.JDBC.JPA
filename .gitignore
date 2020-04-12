@@ -26,6 +26,6 @@ nbdist/
 ### OSX Files ###
 .DS_Store
 
-.mvn
+.mvn/wrapper/
 
 

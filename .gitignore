@@ -27,3 +27,5 @@ nbdist/
 .DS_Store
 
 .mvn
+mvnw
+mvnw.cmd
